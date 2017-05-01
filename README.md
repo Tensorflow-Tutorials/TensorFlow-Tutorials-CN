@@ -1,5 +1,12 @@
 # TensorFlow Tutorials
 
+中文翻译文件名以zh_CN结尾。
+
+1. [简单线性模型](https://zhuanlan.zhihu.com/p/26660699) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model_zh_CN.ipynb))
+
+
+***
+
 [Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
