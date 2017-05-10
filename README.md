@@ -3,8 +3,8 @@
 中文翻译文件名以zh_CN结尾。
 
 1. [简单线性模型](https://zhuanlan.zhihu.com/p/26660699) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model_zh_CN.ipynb))
-2. [卷积神经网络](https://zhuanlan.zhihu.com/p/26719471)([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network_zh_CN.ipynb))
-
+2. [卷积神经网络](https://zhuanlan.zhihu.com/p/26719471) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network_zh_CN.ipynb))
+3. [PrettyTensor](https://zhuanlan.zhihu.com/p/26808093) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/03_PrettyTensor_zh_CN.ipynb))
 ***
 
 [Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
