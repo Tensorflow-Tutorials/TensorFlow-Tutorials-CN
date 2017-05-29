@@ -7,6 +7,11 @@
 3. [PrettyTensor](https://zhuanlan.zhihu.com/p/26808093) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/03_PrettyTensor_zh_CN.ipynb))
 4. [保存 & 恢复](https://zhuanlan.zhihu.com/p/26890361) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/04_Save_Restore_zh_CN.ipynb))
 5. [集成学习](https://zhuanlan.zhihu.com/p/26943434) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/05_Ensemble_Learning_zh_CN.ipynb))
+6. [CIFAR-10](https://zhuanlan.zhihu.com/p/27017189) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/06_CIFAR-10_zh_CN.ipynb))
+7. [Inception 模型](https://zhuanlan.zhihu.com/p/27017772) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/07_Inception_Model_zh_CN.ipynb))
+8. [迁移学习](https://zhuanlan.zhihu.com/p/27093918) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/08_Transfer_Learning_zh_CN.ipynb))
+9. [视频数据](https://zhuanlan.zhihu.com/p/27160921) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/09_Video_Data_zh_CN.ipynb))
+
 ***
 
 [Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
