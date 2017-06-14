@@ -11,7 +11,9 @@
 7. [Inception 模型](https://zhuanlan.zhihu.com/p/27017772) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/07_Inception_Model_zh_CN.ipynb))
 8. [迁移学习](https://zhuanlan.zhihu.com/p/27093918) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/08_Transfer_Learning_zh_CN.ipynb))
 9. [视频数据](https://zhuanlan.zhihu.com/p/27160921) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/09_Video_Data_zh_CN.ipynb))
-
+10. 暂缺 ([support this issue](https://github.com/tensorflow/tensorflow/issues/5036))
+11. [对抗样本](https://zhuanlan.zhihu.com/p/27241550) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/11_Adversarial_Examples_zh_CN.ipynb))
+12. [MNIST的对抗噪声](https://zhuanlan.zhihu.com/p/27399023) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/12_Adversarial_Noise_MNIST_zh_CN.ipynb))
 ***
 
 [Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
