@@ -14,6 +14,9 @@
 10. 暂缺 ([support this issue](https://github.com/tensorflow/tensorflow/issues/5036))
 11. [对抗样本](https://zhuanlan.zhihu.com/p/27241550) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/11_Adversarial_Examples_zh_CN.ipynb))
 12. [MNIST的对抗噪声](https://zhuanlan.zhihu.com/p/27399023) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/12_Adversarial_Noise_MNIST_zh_CN.ipynb))
+13. [可视化分析](https://zhuanlan.zhihu.com/p/27441089) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/13_Visual_Analysis_zh_CN.ipynb))
+14. [DeepDream](https://zhuanlan.zhihu.com/p/27546601) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/14_DeepDream_zh_CN.ipynb))
+
 ***
 
 [Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
